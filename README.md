@@ -51,11 +51,27 @@ This project demonstrates clean modular architecture, data analysis, and visuali
 
 ## 📊 Sample Output
 
-(Add screenshots of your graphs here later)
+### 📈 Bar Chart Visualization
+
+![Bar Chart](bar_chart.png)
+
+### 🥧 Pass vs Fail Pie Chart
+
+![Pie Chart](pie_chart.png)
+
 
 Example menu:
 
-
+===== STUDENT PERFORMANCE ANALYZER =====
+1. Show Topper
+2. Show Class Average
+3. Show Pass/Fail Report
+4. Show Graphs
+5. Search Student
+6. Show Top 5 Students
+7. Exit
+Enter your choice:
+```
 ---
 
 ## 💡 Learning Highlights
