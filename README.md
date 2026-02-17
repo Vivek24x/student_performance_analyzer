@@ -1,36 +1,29 @@
 # 🎓 Student Performance Analyzer
 
-A Python-based data analysis project built using Object-Oriented Programming, Pandas, and Matplotlib.
+A modular Python project built using Object-Oriented Programming, Pandas, and Matplotlib to analyze student academic performance and generate visual insights.
+
+---
 
 ## 🚀 Features
-- Find class topper
-- Calculate class average
-- Pass/Fail analysis
-- Search student by name
-- Top 5 ranking system
-- Data visualization with graphs
+
+✅ Find Class Topper  
+✅ Calculate Class Average  
+✅ Pass/Fail Analysis  
+✅ Search Student by Name  
+✅ Top 5 Student Ranking  
+✅ Data Visualization (Bar Chart & Pie Chart)  
+✅ Interactive Menu-Based Interface  
+
+---
 
 ## 🛠️ Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- OOP Concepts
+
+- 🐍 Python
+- 📊 Pandas
+- 📈 Matplotlib
+- 🧱 Object-Oriented Programming (OOP)
+
+---
 
 ## 📂 Project Structure
-student-performance-analyzer/
-│
-├── main.py
-├── student.py
-├── analyzer.py
-├── visualizer.py
-├── data.csv
 
-## ▶️ How to Run
-1. Install dependencies:
-pip install -r requirements.txt
-
-2. Run the program:
-python main.py
-
-## 📊 Screenshots
-(Add graph screenshots here later)
