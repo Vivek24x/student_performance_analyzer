@@ -53,11 +53,11 @@ This project demonstrates clean modular architecture, data analysis, and visuali
 
 ### 📈 Bar Chart Visualization
 
-![Bar Chart](bar_chart.png)
+![Bar Chart](Screenshots/bar_chart.png)
 
 ### 🥧 Pass vs Fail Pie Chart
 
-![Pie Chart](pie_chart.png)
+![Pie Chart](Screenshots/pie_chart.png)
 
 
 Example menu:
