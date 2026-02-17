@@ -70,8 +70,8 @@ Example menu:
 5. Search Student
 6. Show Top 5 Students
 7. Exit
-Enter your choice:
-```
+Enter your choice: 
+
 ---
 
 ## 💡 Learning Highlights
